@@ -1,0 +1,8 @@
+C:\Users\moewa\Studyapp2\obj\Debug\net8.0\StudyApp.csproj.AssemblyReference.cache
+C:\Users\moewa\Studyapp2\obj\Debug\net8.0\StudyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moewa\Studyapp2\obj\Debug\net8.0\StudyApp.AssemblyInfoInputs.cache
+C:\Users\moewa\Studyapp2\obj\Debug\net8.0\StudyApp.AssemblyInfo.cs
+C:\Users\moewa\Studyapp2\obj\Debug\net8.0\StudyApp.csproj.CoreCompileInputs.cache
+C:\Users\moewa\Studyapp2\obj\Debug\net8.0\StudyApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moewa\Studyapp2\obj\Debug\net8.0\StudyApp.sourcelink.json
+C:\Users\moewa\Studyapp2\obj\Debug\net8.0\StudyApp.MvcApplicationPartsAssemblyInfo.cs
