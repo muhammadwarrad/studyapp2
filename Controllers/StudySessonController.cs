@@ -6,9 +6,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
-using LearningStarter.Data;
-using LearningStarter.Entities;
-using LearningStarter.Common;
+using StudyApp.Data;
+using StudyApp.Entities;
+using StudyApp.Common;
 [Authorize]
 [Route("api/[controller]")]
 [ApiController]

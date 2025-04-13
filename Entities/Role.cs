@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Identity;
 
-namespace LearningStarter.Entities;
+namespace StudyApp.Entities;
 
 public class Role : IdentityRole<int>
 {

@@ -1,12 +1,12 @@
 ﻿using System.Threading.Tasks;
-using LearningStarter.Common;
-using LearningStarter.Entities;
-using LearningStarter.Services;
+using StudyApp.Common;
+using StudyApp.Entities;
+using StudyApp.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LearningStarter.Controllers;
+namespace StudyApp.Controllers;
 
 [ApiController]
 [Route("/api")]

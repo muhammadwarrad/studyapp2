@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LearningStarter.Entities;
+namespace StudyApp.Entities;
 
 public class StudySession
 {

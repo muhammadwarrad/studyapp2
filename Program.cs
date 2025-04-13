@@ -1,7 +1,7 @@
 // Program.cs
-using LearningStarter.Data;
-using LearningStarter.Entities;
-using LearningStarter.Services;
+using StudyApp.Data;
+using StudyApp.Entities;
+using StudyApp.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 

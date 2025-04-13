@@ -1,7 +1,7 @@
 // Common/Response.cs
 using System.Collections.Generic;
 
-namespace LearningStarter.Common;
+namespace StudyApp.Common;
 
 public class Response
 {

@@ -1,13 +1,13 @@
 ﻿﻿using System.Collections.Generic;
 using System.Linq;
-using LearningStarter.Common;
-using LearningStarter.Data;
-using LearningStarter.Entities;
+using StudyApp.Common;
+using StudyApp.Data;
+using StudyApp.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace LearningStarter.Controllers;
+namespace StudyApp.Controllers;
 
 [ApiController]
 [Route("api/users")]

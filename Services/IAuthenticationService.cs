@@ -1,7 +1,7 @@
 // Services/IAuthenticationService.cs
-using LearningStarter.Entities;
+using StudyApp.Entities;
 
-namespace LearningStarter.Services;
+namespace StudyApp.Services;
 
 public interface IAuthenticationService
 {

@@ -1,12 +1,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using LearningStarter.Data;
-using LearningStarter.Entities;
+using StudyApp.Data;
+using StudyApp.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-namespace LearningStarter.Services;
+namespace StudyApp.Services;
 
 public class UserService : IUserService
 {
