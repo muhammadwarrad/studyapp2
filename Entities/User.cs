@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace LearningStarter.Entities;
+namespace StudyApp.Entities;
 
 public class User : IdentityUser<int>
 {

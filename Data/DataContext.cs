@@ -1,15 +1,15 @@
-using LearningStarter.Entities;
+using StudyApp.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace LearningStarter.Data;
+namespace StudyApp.Data;
 
 public class DataContext : IdentityDbContext<User, Role, int, IdentityUserClaim<int>, UserRole, IdentityUserLogin<int>, IdentityRoleClaim<int>, IdentityUserToken<int>>
 {
     public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
-    public DbSet<Flashcard> Flashcards { get; set; }
+    //public DbSet<Flashcard> Flashcards { get; set; }
     public DbSet<FlashcardSet> FlashcardSets { get; set; }
     public DbSet<UserFlashcardSet> UserFlashcardSets { get; set; }
     public DbSet<StudySession> StudySessions { get; set; }

@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using LearningStarter.Entities;
+using StudyApp.Entities;
 
-namespace LearningStarter.Services;
+namespace StudyApp.Services;
 
 public interface IUserService
 {

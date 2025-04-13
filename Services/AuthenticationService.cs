@@ -1,11 +1,11 @@
 // Services/AuthenticationService.cs
 using System.Linq;
 using System.Security.Claims;
-using LearningStarter.Data;
-using LearningStarter.Entities;
+using StudyApp.Data;
+using StudyApp.Entities;
 using Microsoft.AspNetCore.Http;
 
-namespace LearningStarter.Services;
+namespace StudyApp.Services;
 
 public class AuthenticationService : IAuthenticationService
 {
