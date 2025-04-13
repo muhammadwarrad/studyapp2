@@ -9,7 +9,7 @@ public class DataContext : IdentityDbContext<User, Role, int, IdentityUserClaim<
 {
     public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
-    public DbSet<Flashcard> Flashcards { get; set; }
+    //public DbSet<Flashcard> Flashcards { get; set; }
     public DbSet<FlashcardSet> FlashcardSets { get; set; }
     public DbSet<UserFlashcardSet> UserFlashcardSets { get; set; }
     public DbSet<StudySession> StudySessions { get; set; }
